@@ -1,0 +1,8 @@
+[submodule "Packages/CRUD"]
+	path = Packages/CRUD
+	url = https://github.com/eframework-org/GO.CRUD.git
+	branch = master
+[submodule "Packages/UTIL"]
+	path = Packages/UTIL
+	url = https://github.com/eframework-org/GO.UTIL.git
+	branch = master
